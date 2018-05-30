@@ -1,0 +1,17 @@
+{
+    "projectName": "InvestmentApplication",
+    "username": "abhishek@prediction.com",
+    "id": "6bdca1d0-63fc-11e8-a543-53e28c5730ff",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap5.salesforce.com",
+    "workspace": "D:\\Projects\\investment",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
