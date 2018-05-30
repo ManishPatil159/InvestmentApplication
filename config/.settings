@@ -12,6 +12,21 @@
         "ApexComponent",
         "ApexPage",
         "ApexTrigger",
-        "StaticResource"
+        "ApprovalProcess",
+        "AssignmentRules",
+        "AuraDefinitionBundle",
+        "ConnectedApp",
+        "CustomApplication",
+        "CustomLabels",
+        "CustomMetadata",
+        "CustomObject",
+        "EmailTemplate",
+        "EscalationRules",
+        "Flow",
+        "FlowDefinition",
+        "Layout",
+        "QuickAction",
+        "StaticResource",
+        "Workflow"
     ]
 }
